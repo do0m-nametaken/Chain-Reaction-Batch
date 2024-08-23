@@ -1,2 +1,2 @@
 # Chain Reaction Batch
- Chain Reaction mobile game recreation in Batch made back in July 2023
+ Chain Reaction mobile game recreation in Batch created back in July 2023
